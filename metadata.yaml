@@ -1,0 +1,34 @@
+_repo: The-strength-of-love-b-or-Love-is-lord-of-all_71376
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, Alex. McVeigh, Mrs.
+    aliases:
+    - Miller, Mrs. Alex McVeigh
+    - Miller, Alexander McVeigh, Mrs.
+    - Point, Mittie Frances Clarke
+    - Miller, Mrs. Alex. McVeigh
+    birthdate: 1850
+    deathdate: 1937
+    gutenberg_agent_id: '35103'
+    url: http://www.gutenberg.org/2009/agents/35103
+    wikipedia: https://en.wikipedia.org/wiki/Mittie_Frances_Clarke_Point
+description: ''
+gutenberg_issued: '2023-08-10'
+identifiers:
+  gutenberg: '71376'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:727538
+pgterms:marc905: 20220822104136miller
+pgterms:marc906: '1896'
+pgterms:marc907: us
+production_note: Demian Katz, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aNew York :$bStreet & Smith, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The strength of love : $b or, Love is lord of all'
+url: http://www.gutenberg.org/ebooks/71376
